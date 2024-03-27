@@ -15,6 +15,7 @@ Project Objectives:
 Tools And Technologies Used:
 1. PostgreSQL Version-15.1
 2. Power BI Desktop   Version-2.1
+
 Data Sources:
 
 Internal bank databases containing loan information including borrower details, loan amounts, interest rates, repayment terms, and loan status.
