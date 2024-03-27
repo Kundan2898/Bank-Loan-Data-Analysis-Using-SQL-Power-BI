@@ -12,6 +12,9 @@ Project Objectives:
 4. Develop interactive dashboards in Power BI for dynamic visualization of key metrics and trends.
 5. Generate actionable insights to optimize lending practices, manage risks, and improve overall portfolio performance.
 
+Tools And Technologies Used:
+1. PostgreSQL Version-15.1
+2. Power BI Desktop   Version-2.1
 Data Sources:
 
 Internal bank databases containing loan information including borrower details, loan amounts, interest rates, repayment terms, and loan status.
